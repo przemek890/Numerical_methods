@@ -1,29 +1,4 @@
-<<<<<<< HEAD
-[ Console Application -> "Determinant Permutationally" ]
-
-This program is used to calculate the determinant of a given square matrix using the permutation definition.
-
-Conditions:
-
-// n -> size of the matrix
-// k -> matrix element
-
-- n ∈ [1.9] && n ∈ N
-
-Possible operations:
-
-1. Determinant
-
-2. Test
-
-3. EXIT
-=======
-[ Console Application -> "Complex_numbers_calculator" ]
-
-
-After selecting the appropriate option in the menu, the program takes the following numbers: 
-
-a + bi  [ a,b ∈ R ]
+# Complex_numbers_calculator
 
 Possible operations:
 
@@ -49,5 +24,8 @@ Possible operations:
 
 10: EXIT
 
+![Complex_numbers_calculator](Complex_numbers_calculator/doc/complex.gif)
 
->>>>>>> master-holder
+> After selecting the appropriate option in the menu, the program takes the following numbers: 
+
+> a + bi  [ a,b ∈ R ]
