@@ -1,5 +1,7 @@
 # Complex_numbers_calculator
 
+![Numerical_methods](Complex_numbers_calculator/doc/complex.gif)
+
 Possible operations:
 
 0:  Argument
@@ -23,8 +25,6 @@ Possible operations:
 9:  Test
 
 10: EXIT
-
-![Numerical_methods](Complex_numbers_calculator/doc/complex.gif)
 
 > After selecting the appropriate option in the menu, the program takes the following numbers: 
 
