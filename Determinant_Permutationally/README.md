@@ -1,6 +1,4 @@
-[ Console Application -> "Determinant Permutationally" ]
-
-This program is used to calculate the determinant of a given square matrix using the permutation definition.
+# Determinant Permutationally
 
 Conditions:
 
@@ -16,3 +14,6 @@ Possible operations:
 2. Test
 
 3. EXIT
+
+![Numerical_methods](Determinant_Permutationally/doc/determinant.gif)
+> This program is used to calculate the determinant of a given square matrix using the permutation definition.
