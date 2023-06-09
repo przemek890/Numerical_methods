@@ -1,29 +1,5 @@
 # Complex_numbers_calculator
 
-Possible operations:
-
-0:  Argument
-
-1:  Module
-
-2:  Conjugate
-
-3:  Addition
-
-4:  Subtraction
-
-5:  Multiplication
-
-6:  Division
-
-7:  Exponentiation
-
-8:  Roots
-
-9:  Test
-
-10: EXIT
-
 ![Numerical_methods](./doc/complex.gif)
 
 > After selecting the appropriate option in the menu, the program takes the following numbers: 
