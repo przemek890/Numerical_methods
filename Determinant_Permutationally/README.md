@@ -1,19 +1,11 @@
 # Determinant Permutationally
 
-Conditions:
+![Numerical_methods](./doc/determinant.gif)
 
-// n -> size of the matrix
-// k -> matrix element
+## Conditions:
 
-- n ∈ [1.9] && n ∈ N
+### n -> size of the matrix
+### k -> matrix element
+### n ∈ [1.9] && n ∈ N
 
-Possible operations:
-
-1. Determinant
-
-2. Test
-
-3. EXIT
-
-![Numerical_methods](Determinant_Permutationally/doc/determinant.gif)
 > This program is used to calculate the determinant of a given square matrix using the permutation definition.
