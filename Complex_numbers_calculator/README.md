@@ -24,7 +24,7 @@ Possible operations:
 
 10: EXIT
 
-![Complex_numbers_calculator](Complex_numbers_calculator/doc/complex.gif)
+![Numerical_methods](Complex_numbers_calculator/doc/complex.gif)
 
 > After selecting the appropriate option in the menu, the program takes the following numbers: 
 
