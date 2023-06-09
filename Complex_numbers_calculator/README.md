@@ -1,6 +1,6 @@
 # Complex_numbers_calculator
 
-![Numerical_methods](Complex_numbers_calculator/doc/complex.gif)
+![Numerical_methods](./doc/complex.gif)
 
 Possible operations:
 
